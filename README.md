@@ -8,6 +8,7 @@ Requirements:
 - seaborn
 - sklearn
 - keras
+- matplotlib
 - docopt (``` pip install docopt==0.6.2 ``` replacement for argparse)
 
 For predicting tags on your questions, clone this repository and run :
