@@ -1,0 +1,1 @@
+{"previous_path": null, "max_length": 58, "lr": 0.001, "eval_path": "/home/iota/Downloads/do_not_open/v1/top16/results/20170727_112134/", "n_classes": 16, "dropout": 0.5, "hidden_size": 300, "dir_path": "/home/iota/Downloads/do_not_open/v1/top16/", "batch_size": 64, "n_epochs": 10}
